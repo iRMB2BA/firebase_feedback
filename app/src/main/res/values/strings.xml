@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">firebasetest</string>
+    <string name="intext">...input text</string>
+</resources>
